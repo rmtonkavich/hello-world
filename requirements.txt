@@ -1,9 +1,0 @@
-flask
-Flask-SQLAlchemy
-flask-login
-
-also pip install flask-bootstrap 
-and  pip install django-bootstrap3 (note: Possibly Not Needed)
-I used pip install flask-sqlalchemy on my Windows10 PC
-
-

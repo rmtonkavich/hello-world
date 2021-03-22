@@ -1,17 +1,17 @@
 ## Flask Web App Tutorial
 
-## Setup & Installtion
+Just the beginning
+
+## Setup & Installation
 
 Make sure you have the latest version of Python installed.
-
-
+Run in a "Venv" Enviroment is Highly Suggested
 
 
 ## Running The App
 
-```bash
 python main.py
-```
+
 
 ## Viewing The App
 
